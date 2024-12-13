@@ -79,6 +79,7 @@ class _OnboardingWidgetState extends State<OnboardingWidget> {
                                       .override(
                                         fontFamily: 'Inter',
                                         letterSpacing: 0.0,
+                                        fontWeight: FontWeight.bold,
                                       ),
                                 ),
                               ],
